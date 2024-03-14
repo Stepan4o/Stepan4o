@@ -21,21 +21,21 @@
   width="40" height="40"/>&nbsp;&nbsp;  
   &nbsp;  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stepan4o&theme=redical&custom_title=GitHub%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
+&nbsp;[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stepan4o&theme=redical&custom_title=GitHub%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
   
 
-#### Мой профиль [LeetCode](https://leetcode.com/stepan4oranec/)  
+### Мой профиль [LeetCode](https://leetcode.com/stepan4oranec/)  
 
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=stepan4oranec&theme=dark)](https://github.com/Stepan4o/leetcode-stats)    
+>[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=stepan4oranec&theme=dark)](https://github.com/Stepan4o/leetcode-stats)
 
 
-#### Мой профиль [Codewars](https://www.codewars.com/users/Stepan4oran)    
+### Мой профиль [Codewars](https://www.codewars.com/users/Stepan4oran)    
 
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codewars](https://www.codewars.com/users/Stepan4oran/badges/large)](https://www.codewars.com/users/Stepan4oran)
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=Stepan4o)
+>[![codewars](https://www.codewars.com/users/Stepan4oran/badges/large)](https://www.codewars.com/users/Stepan4oran)
+----
+![](https://komarev.com/ghpvc/?username=Stepan4o)
 
 
   
