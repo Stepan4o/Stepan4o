@@ -27,13 +27,12 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stepan4o&theme=solarized_dark)  
   
 
-
-Мой профиль [LeetCode](https://leetcode.com/stepan4oranec/)  
+#### Мой профиль [LeetCode](https://leetcode.com/stepan4oranec/)  
 
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=stepan4oranec&theme=dark)](https://github.com/Stepan4o/leetcode-stats)    
 
 
-Мой профиль [Codewars](https://www.codewars.com/users/Stepan4oran)    
+#### Мой профиль [Codewars](https://www.codewars.com/users/Stepan4oran)    
 
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codewars](https://www.codewars.com/users/Stepan4oran/badges/large)](https://www.codewars.com/users/Stepan4oran)  
 
