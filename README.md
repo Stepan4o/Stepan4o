@@ -1,6 +1,10 @@
-### Hi there 👋  I'm Stepan!
-### Студент на курсе Java-Developer от YandexPracticum.  
 
+<div align="center">
+  
+  ## Hi there 👋  I'm Stepan!  
+</div>  
+
+### Студент на курсе Java-Developer от YandexPracticum.  
 Изучаемые мной языки, технологии и интсрументы:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg"
@@ -35,7 +39,11 @@
 
 >[![codewars](https://www.codewars.com/users/Stepan4oran/badges/large)](https://www.codewars.com/users/Stepan4oran)
 ----
-![](https://komarev.com/ghpvc/?username=Stepan4o)
+<div align="right">
+     
+  ![](https://komarev.com/ghpvc/?username=Stepan4o)
+</div>
+
 
 
   
