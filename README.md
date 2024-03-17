@@ -25,15 +25,10 @@
   width="40" height="40"/>&nbsp;&nbsp;  
   &nbsp;  
 
-&nbsp;[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stepan4o&theme=redical&custom_title=GitHub%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  
-  
-
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stepan4o&theme=dark)
 ### Мой профиль [LeetCode](https://leetcode.com/stepan4oranec/)  
 
 >[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=stepan4oranec&theme=dark)](https://github.com/Stepan4o/leetcode-stats)
-
 
 ### Мой профиль [Codewars](https://www.codewars.com/users/Stepan4oran)    
 
